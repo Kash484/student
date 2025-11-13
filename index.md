@@ -5,8 +5,7 @@ hide: true
 show_reading_time: false
 ---
 
-Hi! My name is [Your Full Name]
-
+Hi! My name is Kash!
 ### Development Environment
 
 > Coding starts with tools, explore these tools and procedures with a click.
