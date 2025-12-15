@@ -51,7 +51,7 @@ I am now able to use GitHub automatically deploys my website whenever I push cha
 Step 9: Troubleshooting
 When things break (and they do), I use the pages repository as a reference to see how things should work. I've learned common commands and how to fix typical issues that come up during development.
 
-This image shows the commits I've done after achieving all of these steps
+This image shows the commits I've done after achieving all of these steps.
 
 ![Commits]({{site.baseurl}}/images/about/commits.png)
 
