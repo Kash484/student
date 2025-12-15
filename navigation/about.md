@@ -122,5 +122,13 @@ Everything for me, as for many others, revolves around family and faith.
 Gallery of Pics, scroll to the right for more ...
 </comment>
 <div class="image-gallery">
-  
+  <img src="{{site.baseurl}}/images/about/younger_me.png" alt="Image 1">
+  <img src="{{site.baseurl}}/images/about/young_kash.png" alt="Image 2">
+  <img src="{{site.baseurl}}/images/about/me_and_dad_grad.png" alt="Image 3">
+  <img src="{{site.baseurl}}/images/about/younger_dad.png" alt="Image 4">
+  <img src="{{site.baseurl}}/images/about/family.png" alt="Image 5">
+  <img src="{{site.baseurl}}/images/about/family_pics.png" alt="Image 6">
+  <img src="{{site.baseurl}}/images/about/cousins.png" alt="Image 7">
+  <img src="{{site.baseurl}}/images/about/cousins_two.png" alt="Image 8">
+  <img src="{{site.baseurl}}/images/about/mom_and_dad.png" alt="Image 9">
 </div>
