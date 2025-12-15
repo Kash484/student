@@ -114,9 +114,7 @@ Here is what I did at those places
 
 Everything for me, as for many others, revolves around family and faith.
 
-- I am American (San Diego) with a heavy Indian ancestry, ethnicity, culture, and traidition.
-- My family is pretty average in size as I have myself, my dad, my mom, and my mischevious little brother.. though we wanted to add onto the family with a pet, parents refused
-- The gallery of pics has some of my family, fun, culture and faith memories.
+- 
 
 <comment>
 Gallery of Pics, scroll to the right for more ...
