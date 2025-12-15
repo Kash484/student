@@ -104,7 +104,7 @@ Here is what I did at those places
 
 - 🌎 I was born and raised in the vibrant place of San Diego (CA)
 - 🏫 I went through my elementary at Del Sur Elementary School
-- 📚 I finished my middle school journey at Oak Valley Middle School >
+- 📚 I finished my middle school journey at Oak Valley Middle School
 - 🏫 I'm currently thriving to succeed in Del Norte High School
 - 🌍 I travel to India about every 2 years to see relatives (lived there about 2 years total so far)
 - 👨‍👩‍👧‍👦 I travel to New Jersey sometimes to meet my favorite cousins (lived there a year total)
